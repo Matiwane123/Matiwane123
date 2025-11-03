@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋 I'm Unathi
+
+- 🔭 I’m currently working on a responsive portfolio site
+- 🌱 Learning advanced CSS and accessibility
+- 💬 Ask me about HTML, CSS, and media queries
+- 📫 Reach me at [matiwaneunathi@yahoo.com]
 
 <!--
 **Matiwane123/Matiwane123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
