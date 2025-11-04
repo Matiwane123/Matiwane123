@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Unathi
+### 👋 Hi, I'm Unathi Matiwane
+
+🚀 Service Consultant 🏧 Beginner Sostware Developer
+
+🧱🧱
 
 - 🔭 I’m currently working on a responsive portfolio site
 - 🌱 Learning advanced CSS and accessibility
